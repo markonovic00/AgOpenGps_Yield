@@ -1,5 +1,7 @@
 
-# AgOpenGPS  ****  Guidance software
+# AgOpenGPS  ****  Guidance software - Yield monitoring branch
+
+This repository is a fork from original AgOpenGps 5.7.2 version. Only doing the canges for Yield monitoring and not following the changes in the original software.
 
 Most [Stable AgOpenGPS Release](https://github.com/farmerbriantee/AgOpenGPS/releases)
 
